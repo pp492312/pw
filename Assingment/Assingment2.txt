@@ -1,0 +1,44 @@
+ANSWER 1:
+Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+
+ANSWER 2:-
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+ANSWER 3:-
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+
+ANSWER 4:-
+Bitbucket.
+GitLab.
+Perforce.
+Beanstalk.
+Amazon AWS CodeCommit.
+Codebase.
+Microsoft Azure DevOps.
+SourceForge.
+
+
+ANSWER 5:-
+Types of Version Control Systems:
+Local Version Control Systems.
+Centralized Version Control Systems.
+Distributed Version Control Systems.
+
+
+ANSWER 6:-
+One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
+ANSWER 7:-
+A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a directory called . git , also known as the repository folder.
+
+
+ANSWER 8:-
+i> Create a new repository on GitHub.com. 
+ii> Open TerminalTerminalGit Bash.
+iii> Change the current working directory to your local project.
+iv> Use the init command to initialize the local directory as a Git repository. 
+v> Add the files in your new local repository. 
+vi> Commit the files that you've staged in your local repository.
+vii> At the top of your repository on GitHub.com's Quick Setup page, click to copy the remote repository URL.
+viii> In the Command prompt, add the URL for the remote repository where your local repository will be       pushed.
+ix> Push the changes in your local repository to GitHub.com.
