@@ -1,0 +1,26 @@
+                                ANSWER 1:-
+A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically.
+
+                                ANSWER 2:-
+RAM is essentially short term memory where data is stored as the processor needs it.
+
+                                ANSWER 3:-
+Data is copied from the computer's main memory (random-access memory or RAM), and then written to the hard disk. The drive 
+is the mechanical device that writes the data to the disk.
+
+                                ANSWER 4:-
+The keyboard is an input device that allows you to enter letters, numbers and symbols into your computer. The keyboard keys 
+include the alphanumeric keys (letters and numbers), numeric keypad (may not be available on netbooks/laptops), special 
+function keys, mouse cursor moving keys, and status lights.
+
+                                ANSWER 5:-
+An output device is any piece of computer hardware equipment which converts information into a human-perceptible form or, historically, into a physical machine-readable form for use with other non-computerized equipment. It can be text, graphics, tactile, audio, or video.
+
+                                ANSWER 6:-
+MOUSE/TOUCHPAD is the input device that allows a user to move the cursor on the screen.
+
+                                ANSWER 7:-
+Machine language gives instructions as 0's and 1's and is the only language that the computer understands.
+
+                                ANSWER 8:-
+An input device is a piece of equipment used to provide data and control signals to an information processing system, such as a computer or information appliance. Examples of input devices include keyboards, mouse, scanners, cameras, joysticks, and microphones.
